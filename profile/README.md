@@ -1,6 +1,7 @@
 
 <p align="center">
 <img width="543" height="177" alt="Bintraq Logo" <img width="543" height="177" alt="Bintraq Logo" src="https://github.com/user-attachments/assets/82605ef5-042b-49e8-8046-ee274e2e20d4" />
+This file contains information about open source projects and Github activities of Bintraq Inc.
 
 # Bintraq  
 
