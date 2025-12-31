@@ -5,7 +5,7 @@ This file contains information about open source projects and Github activities 
 <p align="center">
 <img width="543" height="177" alt="Bintraq Logo" <img width="543" height="177" alt="Bintraq Logo" src="https://github.com/user-attachments/assets/82605ef5-042b-49e8-8046-ee274e2e20d4" />
 
-  
+## About Bintraq 
 **Bintraq** is a smart waste management platform focused on building innovative solutions for efficient waste collection and environmental sustainability in South Sudan.
 
 Bintraq is a **green technology project** that combines **USSD**, a **mobile application**, **IoT-enabled bin sensors**, and a **centralized monitoring platform** to improve waste management efficiency, transparency, and environmental accountability. The platform helps households and businesses manage waste responsibly while supporting cleaner, healthier, and more sustainable communities.
