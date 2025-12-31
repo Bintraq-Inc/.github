@@ -1,7 +1,6 @@
 
 <p align="center">
-  <img <img width="543" height="177" alt="Bintraq Logo" <img width="543" height="177" alt="Bintraq Logo 2" <img width="543" height="177" alt="Bintraq Logo 2" src="https://github.com/user-attachments/assets/adecd4d3-8239-40e4-a83c-96e158e01edd"/>
-
+<img width="543" height="177" alt="Bintraq Logo" <img width="543" height="177" alt="Bintraq Logo" src="https://github.com/user-attachments/assets/82605ef5-042b-49e8-8046-ee274e2e20d4" />
 
 # Bintraq  
 
